@@ -1,4 +1,4 @@
-# Spotify-Algorithm
+# Spotify-Algorithm using K-means, PCA, and Mixture of Gaussian
 
 ## UCSD FA22 - COGS 118B Final Project
 
